@@ -5,7 +5,7 @@ A responsive Netflix landing page clone built using **HTML5** and **CSS3**. This
 
 ## 🚀 Live Demo
 
-🔗 [https://saicharan-devoju.github.io/Netflix-clone/](https://saicharan-devoju.github.io/Netflix-clone/)
+🔗 [[https://saicharan-devoju.github.io/Netflix-clone/](https://saicharan-devoju.github.io/Netflix-clone/)](https://saicharandevoju-net.netlify.app)
 
 ## ✨ Features
 
